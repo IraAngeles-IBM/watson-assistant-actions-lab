@@ -29,3 +29,9 @@
 
 106 - begin-106-action-skill.json
 
+## NeuralSeek, Watson Assistant, and Watson Discovery Lab
+
+[Integrate NeuralSeek with Watson Assistant and Watson Discovery](https://developer.ibm.com/tutorials/integrate-neuralseek-with-watson-assistant-and-watson-discovery/?mhsrc=ibmsearch_a&mhq=neuralseek)
+
+
+
